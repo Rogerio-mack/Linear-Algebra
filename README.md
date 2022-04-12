@@ -34,7 +34,7 @@
 
 > Cases: Encontrando Preços Ótimos de Produtos
 
-**5.Transformações Lineares**
+**5. Transformações Lineares**
 
 > *Ortogonalidade; Bases; Subespaços*
 
