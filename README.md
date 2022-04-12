@@ -26,37 +26,37 @@
 
 > *Operações Básicas; Determinantes; Inversa; Matriz Transposta*
 
-> Cases: Modelo TF-IDF de representação de documentos
+>> Cases: Modelo TF-IDF de representação de documentos
 
 **4. Solução de Sistemas Lineares**
 
 > *Métodos de eliminação; Diagonalização*
 
-> Cases: Encontrando Preços Ótimos de Produtos
+>> Cases: Encontrando Preços Ótimos de Produtos
 
 **5. Transformações Lineares**
 
 > *Ortogonalidade; Bases; Subespaços*
 
-> Cases: Transformando imagens com matrizes 
+>> Cases: Transformando imagens com matrizes 
 
 **6. Autovetores e autovalores**
 
 > *Propriedades e operações*
 
-> Cases: a definir
+>> Cases: a definir
 
 **7. Matrizes especiais**
 
 > *Matrizes de Correlação*
 
-> Cases: Filtros Colaborativos
+>> Cases: Filtros Colaborativos
 
 **8. Decomposição a Valores Singulares**
 
 > *Fatoração de Matrizes*
 
-> Cases: PageRank
+>> Cases: PageRank
 
 
 <br>
