@@ -10,7 +10,7 @@
 
 ---
 
-[**1. Álgebra Linear: Escalares e Vetores**](https://colab.research.google.com/github/Rogerio-mack/Linear-Algebra/blob/main/AL1_escalares_e_vetores.ipynb)
+[**1. Álgebra Linear: Escalares e Vetores** *< click para acessar*](https://colab.research.google.com/github/Rogerio-mack/Linear-Algebra/blob/main/AL1_escalares_e_vetores.ipynb) 
 
 > *Introdução; Escalares e Vetores; Norma de um Vetor*
 
